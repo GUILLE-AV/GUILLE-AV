@@ -12,14 +12,14 @@
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
-<h3 align="center">Estudiante de ingenieria en ciencias de la computacion</h3>
+<h3 align="center">Estudiante de ingeniería en ciencias de la computación</h3>
 
 📌 Desarrollador frontend y backend.
 
 📌 Lucha por tus sueños y metas.
 <br>
 
-<h3>Contactame:</h3>
+<h3>Contáctame:</h3>
 <p>
   <a href="https://www.facebook.com/profile.php?id=100014709901866&mibextid=ZbWKwL" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
@@ -96,14 +96,24 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="40" height="40">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
+  <a href="https://www.toadworld.com/products/toad-data-modeler" target="_blank">
+    <img src="https://softwareasli.com/wp-content/uploads/2019/08/Toad-Data-Modeler.png" alt="Toad Modeler" width="40" height="40">
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
+  <a href="https://www.sqlsplus.com/sql-developer/" target="_blank">
+    <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="SQL Developer" width="40" height="40">
+  </a>
+</p>
+
+<h4>Software de desarrollo:</h4>
+<p>
+  <a href="https://www.genexus.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/16494738?s=280&v=4" alt="GeneXus" width="40" height="40">
+  </a>
+  <a href="https://www.claris.com/filemaker/" target="_blank">
+    <img src="https://dbservices.com/assets/article/2020/05/claris-filemaker-19-overview-1.png" alt="FileMaker" width="40" height="40">
   </a>
 </p>
 
